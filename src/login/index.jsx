@@ -7,7 +7,7 @@ import {
   Link,
   Container,
   Title
-} from "../GlobalStyle/styled"
+} from "../login/style"
 
 
 export default function App() {
